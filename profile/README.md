@@ -1,5 +1,6 @@
 ### Personal repos
-Soon...
+#### [**CanAPI**](https://github.com/mortsource/canapi)  
+Dispensary storefront API normalizer for Dutchie, iHeartJane and more! 
 
 
 ### Organization repos
